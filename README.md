@@ -6,7 +6,7 @@
   [![rouarrak's 42 stats](https://badge.mediaplus.ma/greenbinary/rouarrak)](https://github.com/oakoudad/badge42)
   
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/RimOuarrak/RimOuarrak/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://linkedin.com/in/rim-ouarrak" target="_blank">
+<a href="https://www.linkedin.com/in/rim-ouarrak-7b938b1a3/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/OuarrakRim" target="_blank">
