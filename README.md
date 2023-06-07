@@ -3,7 +3,7 @@
 <br />
 <br />
   
-  [![rouarrak's 42 stats](https://badge.mediaplus.ma/greenbinary/rouarrak)](https://github.com/oakoudad/badge42)
+<!--   [![rouarrak's 42 stats](https://badge.mediaplus.ma/greenbinary/rouarrak)](https://github.com/oakoudad/badge42) -->
   
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/RimOuarrak/RimOuarrak/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://www.linkedin.com/in/rim-ouarrak-7b938b1a3/" target="_blank">
