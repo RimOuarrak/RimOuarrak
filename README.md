@@ -20,7 +20,7 @@
 
 I'm a Software Engineering Student at <a href="https://1337.ma">UM6P - 1337FIL</a>.
 <br />
-I'm also a Full-Stack Developer with +2 yrs of hands-on experience Designing and Developing solutions using various tools and programming languages.
+I'm also a Full-Stack Developer with +3 yrs of hands-on experience Designing and Developing solutions using various tools and programming languages.
 <br />
 
 I'm based in **[Casablanca, Morocco.](https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&showlabs=1&mid=11j4S3j8n7lIYXzu1-EJjFGZmYdQ&ll=33.48267044223794%2C-7.527980499999982&z=11)**
